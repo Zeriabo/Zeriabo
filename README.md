@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeriabo&label=Profile%20views&color=0e75b6&style=flat" alt="zeriabo" /> </p>
 
-- 🔭 I’m currently working on **several project**
+- 🔭 I’m currently working on **several projects**
 
 - 👯 I’m collaborating on [GOD](https://github.com/delib-org/GOD)
 
