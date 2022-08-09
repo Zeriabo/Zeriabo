@@ -7,7 +7,7 @@
 
 - 👯 I’m collaborating on [GOD](https://github.com/delib-org/GOD)
 
-- 💬 Ask me about **java, react,php, javascript, spring framework, databases**
+- 💬 Ask me about ** java, react,php,nodejs, javascript, spring framework, MYSQL, MONGODB, POSTGRESQL,Oracle **
 
 - 📫 How to reach me **zeriab@hotmail.com**
 
