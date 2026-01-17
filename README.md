@@ -7,7 +7,7 @@
 
 - 💬 Ask me about ** java, react,react native,php,nodejs, javascript, spring framework, MYSQL, MONGODB, POSTGRESQL,Oracle **
 
-- 📫 How to reach me **zeriab@hotmail.com**
+- 📫 How to reach me **zeriab.chiah@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/zeriab-chiah-017b9a60/](https://www.linkedin.com/in/zeriab-chiah-017b9a60/)
 
